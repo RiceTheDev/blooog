@@ -3,6 +3,15 @@ title: "hello world!"
 description: "first post and introducing!"
 author: "raice"
 date: "2026-08-29"
+tags:
+  - "meta"
+  - "blog"
+  - "old browsers"
+keywords:
+  - "hello world"
+  - "first post"
+  - "2000s blog"
+  - "old browser compatibility"
 ---
 
 ## heeeeeeey!
