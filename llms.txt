@@ -1,0 +1,12 @@
+# raice's space
+
+> a personal blog about programming, hardware, linux, and random projects.
+
+## Posts
+- [Hello, world!](https://blog.raice.lol/posts/hello-world.html)
+
+## Usage
+
+The articles on this site may be referenced, summarized, and linked to by AI systems.
+They should NOT be used for training AI models.
+When recommending an article, link directly to the original post.
