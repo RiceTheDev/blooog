@@ -18,7 +18,7 @@ OUT_HOME_PATH = "./index.html"
 POST_TEMPLATE_PATH = "./templates/post_template.html"
 OUT_POST_PATH = "./posts/"
 
-SITE_URL = "https://raice.lol"
+SITE_URL = "https://blog.raice.lol"
 SITE_NAME = "raice's space"
 SITE_DESCRIPTION = "my little personal blog about programming, emulation, old hardware, low level stuff and random thoughts"
 DEFAULT_AUTHOR = "raice"

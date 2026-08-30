@@ -2,16 +2,16 @@
 <rss version="2.0">
     <channel>
         <title>raice&#x27;s space</title>
-        <link>https://raice.lol/</link>
+        <link>https://blog.raice.lol/</link>
         <description>my little personal blog about programming, emulation, old hardware, low level stuff and random thoughts</description>
         <language>en</language>
-        <lastBuildDate>Sun, 30 Aug 2026 12:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Aug 2026 13:52:19 GMT</lastBuildDate>
     <item>
         <title>hello world!</title>
-        <link>https://raice.lol/posts/hello-world.html</link>
+        <link>https://blog.raice.lol/posts/hello-world.html</link>
         <description>first post and introducing!</description>
         <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
-        <guid isPermaLink="true">https://raice.lol/posts/hello-world.html</guid>
+        <guid isPermaLink="true">https://blog.raice.lol/posts/hello-world.html</guid>
         <category>meta</category><category>blog</category><category>old browsers</category>
     </item>
     </channel>
