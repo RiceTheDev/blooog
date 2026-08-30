@@ -1,0 +1,114 @@
+@font-face {
+    font-family: 'Trebuchet MS';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Trebuchet MS'), url('assets/trebuc.woff') format('woff');
+}
+
+body {
+    margin: 0;
+    background-color: #dce7f2;
+    background: #cdddec url("/assets/texture.png") repeat;
+    font-family: "Trebuchet MS", Arial, sans-serif;
+    font-size: 16px;
+    color: #000000;
+}
+
+.wrapper {
+    width: 1000px;
+    margin: 40px auto;
+}
+
+.sidebar {
+    width: 280px;
+    float: left;
+
+    border: 1px solid #d4e2ef;
+    background-color: #f5f9fd;
+}
+
+.content {
+    margin-left: 300px;
+
+    border: 1px solid #d4e2ef;
+    background-color: #f5f9fd;
+}
+
+.titlebar {
+    height: 32px;
+    line-height: 32px;
+
+    background-color: #cdddec;
+    background: #cdddec url("/assets/titlebar.png") repeat-x;
+
+    border-radius: 2px;
+}
+
+.titlebar p {
+    margin: 0;
+    padding-left: 12px;
+
+    font-weight: bold;
+}
+
+.content p {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.content h1,
+.content h2,
+.content h3,
+.content h4,
+.content h5,
+.content h6 {
+    padding-left: 15px;
+}
+
+.links-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.links {
+    height: 32px;
+    line-height: 32px;
+    text-align: left;
+    padding-left: 25px;
+}
+
+.links img {
+    width: 32px;
+    height: 32px;
+    vertical-align: middle;
+    margin-right: 6px;
+}
+
+.content hr {
+    margin: 25px 15px;
+
+    border: 0;
+    border-top: 1px dotted #aaa;
+}
+
+.post {
+    margin: 0 15px 20px 15px;
+}
+
+.post a {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.post small {
+    display: block;
+    color: #666666;
+    margin-top: 2px;
+}
+
+.post p {
+    padding: 0;
+    margin-top: 7px;
+}
+
