@@ -23,7 +23,7 @@ chrome 15.0.874 on the main page
 
 so here we are. there's not much else to talk about for now. i plan on making more posts about my projects, or just random thoughts that come to mind.
 
-as always, my projects are on github if you want to see my code (dont recommend it tho). [link to the repository](https://google.com)
+as always, my projects are on github if you want to see my code (dont recommend it tho). [link to the repository](https://github.com/RiceTheDev/blooog)
 
 thanks for reading, till the next post!
 
