@@ -9,12 +9,17 @@ its a static blog generated from markdown files using python. no javascript, no 
 posts are written in markdown with yaml frontmatter:
 
 ```yaml
----
 title: "my post"
 description: "this is a post"
 author: "raice"
 date: "YYYY-MM-DD"
----
+tags:
+  - "tag one"
+  - "tag two"
+keywords:
+  - "seo keyword"
+  - "another keyword"
+og_image: "/assets/posts/my-post.png"
 ```
 
 python then generates the homepage based on the posts, and the posts themselves are converted to html using [templates](https://github.com/RiceTheDev/blooog/blob/master/templates).
