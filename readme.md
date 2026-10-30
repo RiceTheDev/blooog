@@ -36,7 +36,7 @@ instructions are in [`bloggen/readme.md`](https://github.com/RiceTheDev/blooog/b
 
 because a normal blog framework is boring and I want some space to speak more freely.
 
-i talk a bit more on why i made it on the [hello, world!](https://raice.lol/posts/hello-world.html) post in the blog.
+i talk a bit more on why i made it on the [hello, world!](https://blog.raice.lol/posts/hello-world.html) post in the blog.
 
 ---
 
