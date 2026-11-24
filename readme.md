@@ -1,5 +1,4 @@
-# my blog
-<img width="88" height="31" alt="NoAi_03" src="https://github.com/user-attachments/assets/31810e31-d7ec-4fc8-9cef-70b13068acf2" />
+# my blog <img width="88" height="31" alt="NoAi_03" src="https://github.com/user-attachments/assets/31810e31-d7ec-4fc8-9cef-70b13068acf2" />
 
 my little personal blog!
 
